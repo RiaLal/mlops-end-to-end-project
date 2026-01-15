@@ -282,8 +282,8 @@ https://www.bing.com/search?q=regression+with+tabular+gemstone+price+dataset+kag
 
 ## Maintainer
 
-This project is currently maintained by Unknown Developer, a Software Developer with expertise in Python and SQL.
+This project is currently maintained by Ria Lal Kurisinkal, a Data Engineer with expertise in Python and SQL.
 
-- GitHub: [GitHub Profile]
-- LinkedIn: [LinkedIn Profile]
-- Email: [Email Address]
+- GitHub: [https://github.com/RiaLal]
+- LinkedIn: [linkedin.com/in/ria-kurisinkal]
+- Email: [riajoyal20@gmail.com ]
